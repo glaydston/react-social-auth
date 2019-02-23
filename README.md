@@ -1,2 +1,2 @@
-# react-social-auth
-Using the the Google and Facebook system to auth
+# react-social-login
+Using Google and Facebook login system to auth
